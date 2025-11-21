@@ -1,0 +1,8 @@
+{
+  "name": "Uncle Arthur's 100 Chinese Dishes 2025",
+  "description": "An interactive AI cooking assistant for Chinese cuisine. Explore 100+ recipes, get step-by-step voice guidance, and receive AI grading on your finished dishes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
